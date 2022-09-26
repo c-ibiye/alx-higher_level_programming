@@ -3,6 +3,7 @@ import sys
 
 if __name__ != "__main__":
     exit()
+
 i = 0
 result = 0
 for argument in sys.argv:
